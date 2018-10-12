@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultilangualApplication</string>
+    <string name="text">This is your selected language</string>
+</resources>
